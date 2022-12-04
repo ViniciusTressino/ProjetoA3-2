@@ -17,7 +17,7 @@ export class LoginComponent implements OnInit {
     
     if (this.emails == "admin" && this.senha == "admin") {
       console.log('Sucesso');
-      
+      location.href = './home'
     } else {
       console.log('Usuario ou senha invalido');
 

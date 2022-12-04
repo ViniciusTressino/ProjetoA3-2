@@ -7,6 +7,17 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HomeComponent implements OnInit {
 
+  ipc() {
+    location.href = './cadastro'
+  }
+
+  ipa() {
+    location.href = './agenda'
+  }
+
+  ipl() {
+    location.href = './login'
+  }
   constructor() { }
 
   ngOnInit(): void {

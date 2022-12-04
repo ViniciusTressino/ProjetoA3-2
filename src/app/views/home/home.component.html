@@ -1,7 +1,7 @@
 <body>
     <mat-card class="example-card">
         <div class="example-button-row">
-            <button mat-flat-button color="primary">
+            <button mat-flat-button color="primary" (click)="ipc()">
                 Cadastro de Pacientes
             </button>
         </div>
@@ -16,7 +16,7 @@
 
     <mat-card class="example-card2">
         <div class="example-button-row">
-            <button mat-flat-button color="primary">Agendamento</button>
+            <button mat-flat-button color="primary" (click)="ipa()">Agendamento</button>
         </div>
         <br />
         <mat-card-content>
@@ -27,6 +27,6 @@
         </mat-card-content>
     </mat-card>
     <div class="botao-sair">
-        <button mat-flat-button color="warn">Sair</button>
+        <button mat-flat-button color="warn" (click)="ipl()">Sair</button>
     </div>
 </body>

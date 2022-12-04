@@ -1,3 +1,8 @@
+Link do video: https://youtu.be/t93Mdd-JQC4
+
+
+
+
 # ProjetoA32
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.

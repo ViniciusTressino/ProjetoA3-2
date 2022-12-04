@@ -20,17 +20,10 @@
                 <p>
                     <label for="senhas">Senha</label>
                     <input id="senhas" name="senha" type="password" placeholder="Coxinha123" [(ngModel)]="senha" />
-                    {{senha}}
                 </p>
 
-                <p>
-                    <input type="checkbox" name=" manterlogado" id=" manterlogado" value="" />
-                    <label for="manterlogado"> Manter-se conectado</label>
-                </p>
-
-              
             </form>
-            <button  (click)="logar()" value="Entrar">
+            <button  (click)="logar()" value="Entrar" type="submit" >
                 Entrar
             </button>
         </div>

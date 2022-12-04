@@ -101,7 +101,7 @@ input:not([type="checkbox"]) {
 }
 
 /*estilo do botão submit */
-input[type="submit"] {
+button[type="submit"] {
     width: 100% !important;
     cursor: pointer;
     background: #6c63ff;
@@ -119,7 +119,7 @@ input[type="submit"] {
 }
 
 /*estilo do botão submit no hover */
-input[type="submit"]:hover {
+button[type="submit"]:hover {
     background: #4ab3c6;
 }
 
