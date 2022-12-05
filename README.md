@@ -1,6 +1,12 @@
 Link do video: https://youtu.be/t93Mdd-JQC4
 
+Nomes e RA's dos integrantes:
 
+Vinicius Canazza Tressino Neumann - 821135544
+Gabriel Augusto Soares - 822231773
+Lucas Terçarioli Castanho - 8222240243
+João Lucas Ikezaki - 821157116
+Hilton Maccoy Santos Oliveira - 821140368
 
 
 # ProjetoA32
