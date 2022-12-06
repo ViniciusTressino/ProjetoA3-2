@@ -11,5 +11,9 @@ export class CadastroComponent implements OnInit {
 
   ngOnInit(): void {
   }
+  nome_cad!: String;
 
+  adicionarPaciente() {
+    alert('Paciente cadastrado com sucesso!');  
+  }
 }
